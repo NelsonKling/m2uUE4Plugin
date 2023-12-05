@@ -1,0 +1,19 @@
+{
+    "FileVersion" : 3,
+	
+	"FriendlyName" : "m2u Plugin",
+	"Version" : 1,
+	"VersionName" : "1.1",
+	"CreatedBy" : "m2u",
+	"CreatedByURL" : "http://github.com/m2u",
+	"Description" : "The m2u Plugin",
+	"Category" : "Editor",
+	
+    "Modules" :
+	[
+		{
+			"Name" : "m2uPlugin",
+			"Type" : "Developer"
+		}
+	]
+}
